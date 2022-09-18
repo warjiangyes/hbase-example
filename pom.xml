@@ -9,6 +9,8 @@
     <module>hbase-observer-test</module>
     <module>hbase-endpoint-test</module>
       <module>hbase-monitor</module>
+      <module>phoenix-test</module>
+    <module>phoenix-mybatis</module>
   </modules>
   <packaging>pom</packaging>
 
